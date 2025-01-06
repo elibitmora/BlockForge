@@ -1,0 +1,1 @@
+Refactor third-party authentication for client (major) - Implemented a new feature to enhance third-party authentication.
