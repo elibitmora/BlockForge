@@ -1,0 +1,1 @@
+Support role management for optimization (advanced) - Implemented a new feature to enhance role management.
