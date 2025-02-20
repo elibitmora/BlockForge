@@ -1,0 +1,1 @@
+Patch product search for security (urgent) - Implemented a new feature to enhance product search.
