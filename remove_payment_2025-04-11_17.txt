@@ -1,0 +1,1 @@
+Remove payment gateway for performance (easy) - Implemented a new feature to enhance payment gateway.
