@@ -1,0 +1,1 @@
+Resolve error handling for endpoint (enhanced) - Implemented a new feature to enhance error handling.
