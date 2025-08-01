@@ -1,0 +1,1 @@
+Resolve user interface for query (enhanced) - Implemented a new feature to enhance user interface.
