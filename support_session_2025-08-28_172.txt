@@ -1,0 +1,1 @@
+Support session timeout for authentication (advanced) - Implemented a new feature to enhance session timeout.
