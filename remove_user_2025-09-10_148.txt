@@ -1,0 +1,1 @@
+Remove user profile for middleware (complex) - Implemented a new feature to enhance user profile.
