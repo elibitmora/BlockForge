@@ -1,0 +1,1 @@
+Resolve user authentication for database (legacy) - Implemented a new feature to enhance user authentication.
