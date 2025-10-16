@@ -1,0 +1,1 @@
+Integrate session timeout for query (major) - Implemented a new feature to enhance session timeout.
