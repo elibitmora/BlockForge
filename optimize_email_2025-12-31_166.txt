@@ -1,0 +1,1 @@
+Optimize email verification for refactor (critical) - Implemented a new feature to enhance email verification.
