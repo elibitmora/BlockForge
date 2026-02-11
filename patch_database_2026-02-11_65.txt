@@ -1,0 +1,1 @@
+Patch database queries for authentication (critical)
