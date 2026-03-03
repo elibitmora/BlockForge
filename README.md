@@ -17,5 +17,5 @@ BlockForge is a minimal blockchain implementation built for educational purposes
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/blockforge.git
+git clone https://github.com/elibitmora/blockforge.git
 cd blockforge
